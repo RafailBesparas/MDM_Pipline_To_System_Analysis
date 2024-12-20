@@ -58,7 +58,7 @@ This branch is used for quality assurance (QA) testing.
 Once features in the Dev branch are complete, they are merged into the Release branch for final testing before going live.
 Helps isolate testing from ongoing development activities.
 
-#Dev (Development Environment):
+# Dev (Development Environment):
 This branch serves as the integration point for development work.
 Developers merge their feature branches into Dev after completing initial development and testing.
 Ensures that the latest development code is consolidated in one place for team collaboration.
